@@ -1,0 +1,1553 @@
+fileFormatVersion: 2
+guid: 737e8c017d4e8cc4fbd56ff601036e47
+timeCreated: 1487308047
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: headCtrl
+    100002: headCtrlGrp
+    100004: headEndJnt
+    100006: headJnt
+    100008: joint1
+    100010: left_clavicleCtrl
+    100012: left_clavicleCtrlGrp
+    100014: left_clavicleJnt
+    100016: left_elbowCtrl
+    100018: left_elbowCtrlGrp
+    100020: left_elbowJnt
+    100022: left_finger1Ctrl
+    100024: left_finger1Ctrl 1
+    100026: left_finger1CtrlGrp
+    100028: left_finger1Jnt
+    100030: left_finger2CtrlGrp
+    100032: left_finger2Jnt
+    100034: left_fingerEndJnt
+    100036: left_footJnt
+    100038: left_hipJnt
+    100040: left_kneeJnt
+    100042: left_shoulderCtrl
+    100044: left_shoulderCtrlGrp
+    100046: left_shoulderJnt
+    100048: left_thumb1Jnt
+    100050: left_thumb2Jnt
+    100052: left_thumbEndJnt
+    100054: mainCtrl
+    100056: //RootNode
+    100058: right_clavicleCtrl
+    100060: right_clavicleCtrlGrp
+    100062: right_clavicleJnt
+    100064: right_elbowCtrl
+    100066: right_elbowCtrlGrp
+    100068: right_elbowJnt
+    100070: right_finger1Ctrl
+    100072: right_finger1Ctrl 1
+    100074: right_finger1CtrlGrp
+    100076: right_finger1Jnt
+    100078: right_finger2CtrlGrp
+    100080: right_finger2Jnt
+    100082: right_fingerEndJnt
+    100084: right_footJnt
+    100086: right_hipJnt
+    100088: right_kneeJnt
+    100090: right_shoulderCtrl
+    100092: right_shoulderCtrlGrp
+    100094: right_shoulderJnt
+    100096: right_thumb1Ctrl
+    100098: right_thumb1CtrlGrp
+    100100: right_thumb1Jnt
+    100102: right_thumb2Ctrl
+    100104: right_thumb2CtrlGrp
+    100106: right_thumb2Jnt
+    100108: right_thumbEndJnt
+    100110: rootCtrl
+    100112: rootJnt
+    100114: spine1Ctrl
+    100116: spine1CtrlGrp
+    100118: spine1Jnt
+    100120: spine2Ctrl
+    100122: spine2CtrlGrp
+    100124: spine2Jnt
+    100126: spine3Ctrl
+    100128: spine3CtrlGrp
+    100130: spine3Jnt
+    100132: spine4Ctrl
+    100134: spine4CtrlGrp
+    100136: spine4Jnt
+    100138: tail1Ctrl
+    100140: tail1CtrlGrp
+    100142: tail1Jnt
+    100144: tail2Ctrl
+    100146: tail2CtrlGrp
+    100148: tail2Jnt
+    100150: tail3Ctrl
+    100152: tail3CtrlGrp
+    100154: tail3Jnt
+    100156: tailEndJnt
+    400000: headCtrl
+    400002: headCtrlGrp
+    400004: headEndJnt
+    400006: headJnt
+    400008: joint1
+    400010: left_clavicleCtrl
+    400012: left_clavicleCtrlGrp
+    400014: left_clavicleJnt
+    400016: left_elbowCtrl
+    400018: left_elbowCtrlGrp
+    400020: left_elbowJnt
+    400022: left_finger1Ctrl
+    400024: left_finger1Ctrl 1
+    400026: left_finger1CtrlGrp
+    400028: left_finger1Jnt
+    400030: left_finger2CtrlGrp
+    400032: left_finger2Jnt
+    400034: left_fingerEndJnt
+    400036: left_footJnt
+    400038: left_hipJnt
+    400040: left_kneeJnt
+    400042: left_shoulderCtrl
+    400044: left_shoulderCtrlGrp
+    400046: left_shoulderJnt
+    400048: left_thumb1Jnt
+    400050: left_thumb2Jnt
+    400052: left_thumbEndJnt
+    400054: mainCtrl
+    400056: //RootNode
+    400058: right_clavicleCtrl
+    400060: right_clavicleCtrlGrp
+    400062: right_clavicleJnt
+    400064: right_elbowCtrl
+    400066: right_elbowCtrlGrp
+    400068: right_elbowJnt
+    400070: right_finger1Ctrl
+    400072: right_finger1Ctrl 1
+    400074: right_finger1CtrlGrp
+    400076: right_finger1Jnt
+    400078: right_finger2CtrlGrp
+    400080: right_finger2Jnt
+    400082: right_fingerEndJnt
+    400084: right_footJnt
+    400086: right_hipJnt
+    400088: right_kneeJnt
+    400090: right_shoulderCtrl
+    400092: right_shoulderCtrlGrp
+    400094: right_shoulderJnt
+    400096: right_thumb1Ctrl
+    400098: right_thumb1CtrlGrp
+    400100: right_thumb1Jnt
+    400102: right_thumb2Ctrl
+    400104: right_thumb2CtrlGrp
+    400106: right_thumb2Jnt
+    400108: right_thumbEndJnt
+    400110: rootCtrl
+    400112: rootJnt
+    400114: spine1Ctrl
+    400116: spine1CtrlGrp
+    400118: spine1Jnt
+    400120: spine2Ctrl
+    400122: spine2CtrlGrp
+    400124: spine2Jnt
+    400126: spine3Ctrl
+    400128: spine3CtrlGrp
+    400130: spine3Jnt
+    400132: spine4Ctrl
+    400134: spine4CtrlGrp
+    400136: spine4Jnt
+    400138: tail1Ctrl
+    400140: tail1CtrlGrp
+    400142: tail1Jnt
+    400144: tail2Ctrl
+    400146: tail2CtrlGrp
+    400148: tail2Jnt
+    400150: tail3Ctrl
+    400152: tail3CtrlGrp
+    400154: tail3Jnt
+    400156: tailEndJnt
+    7400000: SlashPose01
+    7400002: Slash02
+    7400004: Slash03
+    7400006: Slash01
+    7400008: SlashPose02
+    7400010: SlashPose03
+    7400012: SlashCombo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Slash01
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mainCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp/left_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp/right_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp/right_thumb2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp/headCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp/tail3Ctrl
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Slash02
+      takeName: Take 001
+      firstFrame: 36
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mainCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp/left_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp/right_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp/right_thumb2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp/headCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp/tail3Ctrl
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Slash03
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mainCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp/left_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp/right_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp/right_thumb2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp/headCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp/tail3Ctrl
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: SlashPose01
+      takeName: Take 001
+      firstFrame: 36
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mainCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp/left_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp/right_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp/right_thumb2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp/headCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp/tail3Ctrl
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: SlashPose02
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mainCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp/left_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp/right_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp/right_thumb2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp/headCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp/tail3Ctrl
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: SlashPose03
+      takeName: Take 001
+      firstFrame: 92
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mainCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp/left_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp/right_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp/right_thumb2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp/headCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp/tail3Ctrl
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: SlashCombo
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mainCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/left_clavicleCtrlGrp/left_clavicleCtrl/left_shoulderCtrlGrp/left_shoulderCtrl/left_elbowCtrlGrp/left_elbowCtrl/left_finger1CtrlGrp/left_finger1Ctrl/left_finger2CtrlGrp/left_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_finger2CtrlGrp/right_finger1Ctrl
+          1
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/right_clavicleCtrlGrp/right_clavicleCtrl/right_shoulderCtrlGrp/right_shoulderCtrl/right_elbowCtrlGrp/right_elbowCtrl/right_finger1CtrlGrp/right_finger1Ctrl/right_thumb1CtrlGrp/right_thumb1Ctrl/right_thumb2CtrlGrp/right_thumb2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/spine1CtrlGrp/spine1Ctrl/spine2CtrlGrp/spine2Ctrl/spine3CtrlGrp/spine3Ctrl/spine4CtrlGrp/spine4Ctrl/headCtrlGrp/headCtrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp
+        weight: 1
+      - path: mainCtrl/rootCtrl/tail1CtrlGrp/tail1Ctrl/tail2CtrlGrp/tail2Ctrl/tail3CtrlGrp/tail3Ctrl
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

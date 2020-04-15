@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: f7e0a4c22a351984daac121dab52f367
+timeCreated: 1489025514
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Human__original_:jnt_head_BND
+    100002: Human__original_:jnt_left_ankle_BND
+    100004: Human__original_:jnt_left_ankle_FK
+    100006: Human__original_:jnt_left_ankle_IK
+    100008: Human__original_:jnt_left_ball_BND
+    100010: Human__original_:jnt_left_elbow_BND
+    100012: Human__original_:jnt_left_elbow_FK
+    100014: Human__original_:jnt_left_elbow_IK
+    100016: Human__original_:jnt_left_finger_BND
+    100018: Human__original_:jnt_left_knee_BND
+    100020: Human__original_:jnt_left_knee_FK
+    100022: Human__original_:jnt_left_knee_IK
+    100024: Human__original_:jnt_left_shoulder_BND
+    100026: Human__original_:jnt_left_shoulder_FK
+    100028: Human__original_:jnt_left_shoulder_IK
+    100030: Human__original_:jnt_left_thigh_BND
+    100032: Human__original_:jnt_left_thigh_FK
+    100034: Human__original_:jnt_left_thigh_IK
+    100036: Human__original_:jnt_left_thumb_BND
+    100038: Human__original_:jnt_left_wrist_BND
+    100040: Human__original_:jnt_left_wrist_FK
+    100042: Human__original_:jnt_left_wrist_IK
+    100044: Human__original_:jnt_lowerChest_BND
+    100046: Human__original_:jnt_neck_BND
+    100048: Human__original_:jnt_right_ankle_BND
+    100050: Human__original_:jnt_right_ankle_FK
+    100052: Human__original_:jnt_right_ankle_IK
+    100054: Human__original_:jnt_right_ball_BND
+    100056: Human__original_:jnt_right_elbow_BND
+    100058: Human__original_:jnt_right_elbow_FK
+    100060: Human__original_:jnt_right_elbow_IK
+    100062: Human__original_:jnt_right_finger_BND
+    100064: Human__original_:jnt_right_knee_BND
+    100066: Human__original_:jnt_right_knee_FK
+    100068: Human__original_:jnt_right_knee_IK
+    100070: Human__original_:jnt_right_shoulder_BND
+    100072: Human__original_:jnt_right_shoulder_FK
+    100074: Human__original_:jnt_right_shoulder_IK
+    100076: Human__original_:jnt_right_thigh_BND
+    100078: Human__original_:jnt_right_thigh_FK
+    100080: Human__original_:jnt_right_thigh_IK
+    100082: Human__original_:jnt_right_thumb_BND
+    100084: Human__original_:jnt_right_wrist_BND
+    100086: Human__original_:jnt_right_wrist_FK
+    100088: Human__original_:jnt_right_wrist_IK
+    100090: Human__original_:jnt_root
+    100092: Human__original_:jnt_upperChest_BND
+    100094: Human__original_:jnt_waist_BND
+    100096: Human__original_:jntEnd_headTop
+    100098: Human__original_:jntEnd_left_fingerTip
+    100100: Human__original_:jntEnd_left_thumbEnd
+    100102: Human__original_:jntEnd_left_toeEnd
+    100104: Human__original_:jntEnd_right_fingerTip
+    100106: Human__original_:jntEnd_right_thumbEnd
+    100108: Human__original_:jntEnd_right_toeEnd
+    100110: //RootNode
+    400000: Human__original_:jnt_head_BND
+    400002: Human__original_:jnt_left_ankle_BND
+    400004: Human__original_:jnt_left_ankle_FK
+    400006: Human__original_:jnt_left_ankle_IK
+    400008: Human__original_:jnt_left_ball_BND
+    400010: Human__original_:jnt_left_elbow_BND
+    400012: Human__original_:jnt_left_elbow_FK
+    400014: Human__original_:jnt_left_elbow_IK
+    400016: Human__original_:jnt_left_finger_BND
+    400018: Human__original_:jnt_left_knee_BND
+    400020: Human__original_:jnt_left_knee_FK
+    400022: Human__original_:jnt_left_knee_IK
+    400024: Human__original_:jnt_left_shoulder_BND
+    400026: Human__original_:jnt_left_shoulder_FK
+    400028: Human__original_:jnt_left_shoulder_IK
+    400030: Human__original_:jnt_left_thigh_BND
+    400032: Human__original_:jnt_left_thigh_FK
+    400034: Human__original_:jnt_left_thigh_IK
+    400036: Human__original_:jnt_left_thumb_BND
+    400038: Human__original_:jnt_left_wrist_BND
+    400040: Human__original_:jnt_left_wrist_FK
+    400042: Human__original_:jnt_left_wrist_IK
+    400044: Human__original_:jnt_lowerChest_BND
+    400046: Human__original_:jnt_neck_BND
+    400048: Human__original_:jnt_right_ankle_BND
+    400050: Human__original_:jnt_right_ankle_FK
+    400052: Human__original_:jnt_right_ankle_IK
+    400054: Human__original_:jnt_right_ball_BND
+    400056: Human__original_:jnt_right_elbow_BND
+    400058: Human__original_:jnt_right_elbow_FK
+    400060: Human__original_:jnt_right_elbow_IK
+    400062: Human__original_:jnt_right_finger_BND
+    400064: Human__original_:jnt_right_knee_BND
+    400066: Human__original_:jnt_right_knee_FK
+    400068: Human__original_:jnt_right_knee_IK
+    400070: Human__original_:jnt_right_shoulder_BND
+    400072: Human__original_:jnt_right_shoulder_FK
+    400074: Human__original_:jnt_right_shoulder_IK
+    400076: Human__original_:jnt_right_thigh_BND
+    400078: Human__original_:jnt_right_thigh_FK
+    400080: Human__original_:jnt_right_thigh_IK
+    400082: Human__original_:jnt_right_thumb_BND
+    400084: Human__original_:jnt_right_wrist_BND
+    400086: Human__original_:jnt_right_wrist_FK
+    400088: Human__original_:jnt_right_wrist_IK
+    400090: Human__original_:jnt_root
+    400092: Human__original_:jnt_upperChest_BND
+    400094: Human__original_:jnt_waist_BND
+    400096: Human__original_:jntEnd_headTop
+    400098: Human__original_:jntEnd_left_fingerTip
+    400100: Human__original_:jntEnd_left_thumbEnd
+    400102: Human__original_:jntEnd_left_toeEnd
+    400104: Human__original_:jntEnd_right_fingerTip
+    400106: Human__original_:jntEnd_right_thumbEnd
+    400108: Human__original_:jntEnd_right_toeEnd
+    400110: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

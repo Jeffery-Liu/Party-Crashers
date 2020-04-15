@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &172684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 489840}
+  - 114: {fileID: 11478484}
+  - 114: {fileID: 11404630}
+  - 114: {fileID: 11404026}
+  - 114: {fileID: 11438562}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &489840
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172684}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11404026
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0042ec3282483458f1147d4ea65fff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11404630
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851eca8a1f1ab994ea2c029a80976731, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  es: {fileID: 0}
+  previouslySelectedGameObject: {fileID: 0}
+  menuManager: {fileID: 0}
+  minigameManager: {fileID: 0}
+  minigameRewardSelection: {fileID: 0}
+--- !u!114 &11438562
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b95dac76ec1d2b8489d556e30402ff3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  duration: 0.5
+  score: 0
+  textTarget: {fileID: 0}
+--- !u!114 &11478484
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d948f7bd93d45844bdb5a28424eebf9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_GameState: 0
+  m_PlayerPrefab: {fileID: 179692, guid: c0d4599cda93dc54785f1e84c5383933, type: 2}
+  m_MascotPrefab: {fileID: 113286, guid: 7ce764fae4c3a0d48acebd2e06a955cf, type: 2}
+  m_NerdPrefab: {fileID: 187464, guid: 83fbd79eab5a167408f8f161a65e36ee, type: 2}
+  m_BadboyPrefab: {fileID: 189776, guid: e4319812089a60c47867a805a5c7c06f, type: 2}
+  m_GothPrefab: {fileID: 151092, guid: 81bd40bd258fecf4ab7b8f02838aff44, type: 2}
+  m_PinataPrefab: {fileID: 159460, guid: fb88fcd3ea278524f992adc197cd44a6, type: 2}
+  m_Portraits:
+  - {fileID: 8400000, guid: 5acc0dd7f80d88248b6c8b0d19e77b89, type: 2}
+  - {fileID: 8400000, guid: 1500a03a085f2f044907fef6d3b1ae0a, type: 2}
+  - {fileID: 8400000, guid: 227f49247b9e1ef429f11ef1ea16104f, type: 2}
+  - {fileID: 8400000, guid: 14f79cfec67e62248ba95f224a0660c5, type: 2}
+  m_Player1:
+    name: 
+    player: 0
+    model: 0
+    weapon: 0
+    attackSpeed: 0
+    movementSpeed: 0
+    damage: 0
+    heartUpgrades: 0
+    gold: 0
+    score: 0
+    m_Controller: 0
+  m_Player2:
+    name: 
+    player: 0
+    model: 0
+    weapon: 0
+    attackSpeed: 0
+    movementSpeed: 0
+    damage: 0
+    heartUpgrades: 0
+    gold: 0
+    score: 0
+    m_Controller: 0
+  m_Player3:
+    name: 
+    player: 0
+    model: 0
+    weapon: 0
+    attackSpeed: 0
+    movementSpeed: 0
+    damage: 0
+    heartUpgrades: 0
+    gold: 0
+    score: 0
+    m_Controller: 0
+  m_Player4:
+    name: 
+    player: 0
+    model: 0
+    weapon: 0
+    attackSpeed: 0
+    movementSpeed: 0
+    damage: 0
+    heartUpgrades: 0
+    gold: 0
+    score: 0
+    m_Controller: 0
+  m_Players: []
+  m_NumOfPlayers: 0
+  m_PartyBar: {fileID: 0}
+  m_LevelToStart: Lobby_01
+  m_LastLevelPlayedIndex: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 172684}
+  m_IsPrefabParent: 1

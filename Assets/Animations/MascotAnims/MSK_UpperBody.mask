@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MSK_UpperBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: left_legIK
+    m_Weight: 0
+  - m_Path: lionGeo
+    m_Weight: 0
+  - m_Path: right_legIK
+    m_Weight: 0
+  - m_Path: rootJnt
+    m_Weight: 0
+  - m_Path: rootJnt/left_hipJnt
+    m_Weight: 0
+  - m_Path: rootJnt/left_hipJnt/left_kneeJnt
+    m_Weight: 0
+  - m_Path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+    m_Weight: 0
+  - m_Path: rootJnt/right_hipJnt
+    m_Weight: 0
+  - m_Path: rootJnt/right_hipJnt/right_kneeJnt
+    m_Weight: 0
+  - m_Path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+    m_Weight: 0
+  - m_Path: rootJnt/spine1Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+    m_Weight: 1
+  - m_Path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+    m_Weight: 1
+  - m_Path: rootJnt/tail1Jnt
+    m_Weight: 0
+  - m_Path: rootJnt/tail1Jnt/tail2Jnt
+    m_Weight: 0
+  - m_Path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+    m_Weight: 0
+  - m_Path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+    m_Weight: 0

@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 73a6cff3c2e8e4f48bf7741d2020c75d
+timeCreated: 1482527880
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mascotNoTextures:headEndJnt
+    100004: mascotNoTextures:headJnt
+    100006: mascotNoTextures:joint1
+    100008: mascotNoTextures:left_clavicleJnt
+    100010: mascotNoTextures:left_elbowJnt
+    100012: mascotNoTextures:left_finger1Jnt
+    100014: mascotNoTextures:left_finger2Jnt
+    100016: mascotNoTextures:left_fingerEndJnt
+    100018: mascotNoTextures:left_footJnt
+    100020: mascotNoTextures:left_hipJnt
+    100022: mascotNoTextures:left_kneeJnt
+    100024: mascotNoTextures:left_shoulderJnt
+    100026: mascotNoTextures:left_thumb1Jnt
+    100028: mascotNoTextures:left_thumb2Jnt
+    100030: mascotNoTextures:left_thumbEndJnt
+    100032: mascotNoTextures:right_clavicleJnt
+    100034: mascotNoTextures:right_elbowJnt
+    100036: mascotNoTextures:right_finger1Jnt
+    100038: mascotNoTextures:right_finger2Jnt
+    100040: mascotNoTextures:right_fingerEndJnt
+    100042: mascotNoTextures:right_footJnt
+    100044: mascotNoTextures:right_hipJnt
+    100046: mascotNoTextures:right_kneeJnt
+    100048: mascotNoTextures:right_shoulderJnt
+    100050: mascotNoTextures:right_thumb1Jnt
+    100052: mascotNoTextures:right_thumb2Jnt
+    100054: mascotNoTextures:right_thumbEndJnt
+    100056: mascotNoTextures:rootJnt
+    100058: mascotNoTextures:spine1Jnt
+    100060: mascotNoTextures:spine2Jnt
+    100062: mascotNoTextures:spine3Jnt
+    100064: mascotNoTextures:spine4Jnt
+    100066: mascotNoTextures:tail1Jnt
+    100068: mascotNoTextures:tail2Jnt
+    100070: mascotNoTextures:tail3Jnt
+    100072: mascotNoTextures:tailEndJnt
+    400000: //RootNode
+    400002: mascotNoTextures:headEndJnt
+    400004: mascotNoTextures:headJnt
+    400006: mascotNoTextures:joint1
+    400008: mascotNoTextures:left_clavicleJnt
+    400010: mascotNoTextures:left_elbowJnt
+    400012: mascotNoTextures:left_finger1Jnt
+    400014: mascotNoTextures:left_finger2Jnt
+    400016: mascotNoTextures:left_fingerEndJnt
+    400018: mascotNoTextures:left_footJnt
+    400020: mascotNoTextures:left_hipJnt
+    400022: mascotNoTextures:left_kneeJnt
+    400024: mascotNoTextures:left_shoulderJnt
+    400026: mascotNoTextures:left_thumb1Jnt
+    400028: mascotNoTextures:left_thumb2Jnt
+    400030: mascotNoTextures:left_thumbEndJnt
+    400032: mascotNoTextures:right_clavicleJnt
+    400034: mascotNoTextures:right_elbowJnt
+    400036: mascotNoTextures:right_finger1Jnt
+    400038: mascotNoTextures:right_finger2Jnt
+    400040: mascotNoTextures:right_fingerEndJnt
+    400042: mascotNoTextures:right_footJnt
+    400044: mascotNoTextures:right_hipJnt
+    400046: mascotNoTextures:right_kneeJnt
+    400048: mascotNoTextures:right_shoulderJnt
+    400050: mascotNoTextures:right_thumb1Jnt
+    400052: mascotNoTextures:right_thumb2Jnt
+    400054: mascotNoTextures:right_thumbEndJnt
+    400056: mascotNoTextures:rootJnt
+    400058: mascotNoTextures:spine1Jnt
+    400060: mascotNoTextures:spine2Jnt
+    400062: mascotNoTextures:spine3Jnt
+    400064: mascotNoTextures:spine4Jnt
+    400066: mascotNoTextures:tail1Jnt
+    400068: mascotNoTextures:tail2Jnt
+    400070: mascotNoTextures:tail3Jnt
+    400072: mascotNoTextures:tailEndJnt
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

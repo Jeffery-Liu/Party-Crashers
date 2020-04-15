@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 15ea4d2e497d6484cbeaf915310da2ed
+timeCreated: 1489566585
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: jnt_head_BND
+    100004: jnt_left_ankle_BND
+    100006: jnt_left_ankle_FK
+    100008: jnt_left_ankle_IK
+    100010: jnt_left_ball_BND
+    100012: jnt_left_elbow_BND
+    100014: jnt_left_elbow_FK
+    100016: jnt_left_elbow_IK
+    100018: jnt_left_finger_BND
+    100020: jnt_left_knee_BND
+    100022: jnt_left_knee_FK
+    100024: jnt_left_knee_IK
+    100026: jnt_left_shoulder_BND
+    100028: jnt_left_shoulder_FK
+    100030: jnt_left_shoulder_IK
+    100032: jnt_left_thigh_BND
+    100034: jnt_left_thigh_FK
+    100036: jnt_left_thigh_IK
+    100038: jnt_left_thumb_BND
+    100040: jnt_left_wrist_BND
+    100042: jnt_left_wrist_FK
+    100044: jnt_left_wrist_IK
+    100046: jnt_lowerChest_BND
+    100048: jnt_neck_BND
+    100050: jnt_right_ankle_BND
+    100052: jnt_right_ankle_FK
+    100054: jnt_right_ankle_IK
+    100056: jnt_right_ball_BND
+    100058: jnt_right_elbow_BND
+    100060: jnt_right_elbow_FK
+    100062: jnt_right_elbow_IK
+    100064: jnt_right_finger_BND
+    100066: jnt_right_knee_BND
+    100068: jnt_right_knee_FK
+    100070: jnt_right_knee_IK
+    100072: jnt_right_shoulder_BND
+    100074: jnt_right_shoulder_FK
+    100076: jnt_right_shoulder_IK
+    100078: jnt_right_thigh_BND
+    100080: jnt_right_thigh_FK
+    100082: jnt_right_thigh_IK
+    100084: jnt_right_thumb_BND
+    100086: jnt_right_wrist_BND
+    100088: jnt_right_wrist_FK
+    100090: jnt_right_wrist_IK
+    100092: jnt_root
+    100094: jnt_upperChest_BND
+    100096: jnt_waist_BND
+    100098: jntEnd_headTop
+    100100: jntEnd_left_fingerTip
+    100102: jntEnd_left_thumbEnd
+    100104: jntEnd_left_toeEnd
+    100106: jntEnd_right_fingerTip
+    100108: jntEnd_right_thumbEnd
+    100110: jntEnd_right_toeEnd
+    400000: //RootNode
+    400002: jnt_head_BND
+    400004: jnt_left_ankle_BND
+    400006: jnt_left_ankle_FK
+    400008: jnt_left_ankle_IK
+    400010: jnt_left_ball_BND
+    400012: jnt_left_elbow_BND
+    400014: jnt_left_elbow_FK
+    400016: jnt_left_elbow_IK
+    400018: jnt_left_finger_BND
+    400020: jnt_left_knee_BND
+    400022: jnt_left_knee_FK
+    400024: jnt_left_knee_IK
+    400026: jnt_left_shoulder_BND
+    400028: jnt_left_shoulder_FK
+    400030: jnt_left_shoulder_IK
+    400032: jnt_left_thigh_BND
+    400034: jnt_left_thigh_FK
+    400036: jnt_left_thigh_IK
+    400038: jnt_left_thumb_BND
+    400040: jnt_left_wrist_BND
+    400042: jnt_left_wrist_FK
+    400044: jnt_left_wrist_IK
+    400046: jnt_lowerChest_BND
+    400048: jnt_neck_BND
+    400050: jnt_right_ankle_BND
+    400052: jnt_right_ankle_FK
+    400054: jnt_right_ankle_IK
+    400056: jnt_right_ball_BND
+    400058: jnt_right_elbow_BND
+    400060: jnt_right_elbow_FK
+    400062: jnt_right_elbow_IK
+    400064: jnt_right_finger_BND
+    400066: jnt_right_knee_BND
+    400068: jnt_right_knee_FK
+    400070: jnt_right_knee_IK
+    400072: jnt_right_shoulder_BND
+    400074: jnt_right_shoulder_FK
+    400076: jnt_right_shoulder_IK
+    400078: jnt_right_thigh_BND
+    400080: jnt_right_thigh_FK
+    400082: jnt_right_thigh_IK
+    400084: jnt_right_thumb_BND
+    400086: jnt_right_wrist_BND
+    400088: jnt_right_wrist_FK
+    400090: jnt_right_wrist_IK
+    400092: jnt_root
+    400094: jnt_upperChest_BND
+    400096: jnt_waist_BND
+    400098: jntEnd_headTop
+    400100: jntEnd_left_fingerTip
+    400102: jntEnd_left_thumbEnd
+    400104: jntEnd_left_toeEnd
+    400106: jntEnd_right_fingerTip
+    400108: jntEnd_right_thumbEnd
+    400110: jntEnd_right_toeEnd
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

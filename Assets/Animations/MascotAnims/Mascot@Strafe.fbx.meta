@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 3cf26ef0da225d54a89e8b61fa4fc2f1
+timeCreated: 1482529802
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: headEndJnt
+    100002: headJnt
+    100004: joint1
+    100006: left_clavicleJnt
+    100008: left_elbowJnt
+    100010: left_finger1Jnt
+    100012: left_finger2Jnt
+    100014: left_fingerEndJnt
+    100016: left_footJnt
+    100018: left_hipJnt
+    100020: left_kneeJnt
+    100022: left_shoulderJnt
+    100024: left_thumb1Jnt
+    100026: left_thumb2Jnt
+    100028: left_thumbEndJnt
+    100030: //RootNode
+    100032: right_clavicleJnt
+    100034: right_elbowJnt
+    100036: right_finger1Jnt
+    100038: right_finger2Jnt
+    100040: right_fingerEndJnt
+    100042: right_footJnt
+    100044: right_hipJnt
+    100046: right_kneeJnt
+    100048: right_shoulderJnt
+    100050: right_thumb1Jnt
+    100052: right_thumb2Jnt
+    100054: right_thumbEndJnt
+    100056: rootJnt
+    100058: spine1Jnt
+    100060: spine2Jnt
+    100062: spine3Jnt
+    100064: spine4Jnt
+    100066: tail1Jnt
+    100068: tail2Jnt
+    100070: tail3Jnt
+    100072: tailEndJnt
+    400000: headEndJnt
+    400002: headJnt
+    400004: joint1
+    400006: left_clavicleJnt
+    400008: left_elbowJnt
+    400010: left_finger1Jnt
+    400012: left_finger2Jnt
+    400014: left_fingerEndJnt
+    400016: left_footJnt
+    400018: left_hipJnt
+    400020: left_kneeJnt
+    400022: left_shoulderJnt
+    400024: left_thumb1Jnt
+    400026: left_thumb2Jnt
+    400028: left_thumbEndJnt
+    400030: //RootNode
+    400032: right_clavicleJnt
+    400034: right_elbowJnt
+    400036: right_finger1Jnt
+    400038: right_finger2Jnt
+    400040: right_fingerEndJnt
+    400042: right_footJnt
+    400044: right_hipJnt
+    400046: right_kneeJnt
+    400048: right_shoulderJnt
+    400050: right_thumb1Jnt
+    400052: right_thumb2Jnt
+    400054: right_thumbEndJnt
+    400056: rootJnt
+    400058: spine1Jnt
+    400060: spine2Jnt
+    400062: spine3Jnt
+    400064: spine4Jnt
+    400066: tail1Jnt
+    400068: tail2Jnt
+    400070: tail3Jnt
+    400072: tailEndJnt
+    7400000: Strafe
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Strafe
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rootJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt
+        weight: 1
+      - path: rootJnt/left_hipJnt/left_kneeJnt/left_footJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt
+        weight: 1
+      - path: rootJnt/right_hipJnt/right_kneeJnt/right_footJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/headJnt/headEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/joint1
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_finger2Jnt/left_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/left_clavicleJnt/left_shoulderJnt/left_elbowJnt/left_finger1Jnt/left_thumb1Jnt/left_thumb2Jnt/left_thumbEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_finger2Jnt/right_fingerEndJnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt
+        weight: 1
+      - path: rootJnt/spine1Jnt/spine2Jnt/spine3Jnt/spine4Jnt/right_clavicleJnt/right_shoulderJnt/right_elbowJnt/right_finger1Jnt/right_thumb1Jnt/right_thumb2Jnt/right_thumbEndJnt
+        weight: 1
+      - path: rootJnt/tail1Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt
+        weight: 1
+      - path: rootJnt/tail1Jnt/tail2Jnt/tail3Jnt/tailEndJnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

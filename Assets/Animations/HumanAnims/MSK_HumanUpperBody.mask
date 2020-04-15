@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MSK_HumanUpperBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ctrls_GRP
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_left_thigh_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_left_thigh_FK/ctrl_left_thigh_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_left_thigh_FK/ctrl_left_thigh_FK/ctrlGrp_left_knee_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_left_thigh_FK/ctrl_left_thigh_FK/ctrlGrp_left_knee_FK/ctrl_left_knee_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_left_thigh_FK/ctrl_left_thigh_FK/ctrlGrp_left_knee_FK/ctrl_left_knee_FK/ctrlGrp_left_ankle_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_left_thigh_FK/ctrl_left_thigh_FK/ctrlGrp_left_knee_FK/ctrl_left_knee_FK/ctrlGrp_left_ankle_FK/ctrl_left_ankle_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_right_thigh_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_right_thigh_FK/ctrl_right_thigh_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_right_thigh_FK/ctrl_right_thigh_FK/ctrlGrp_right_knee_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_right_thigh_FK/ctrl_right_thigh_FK/ctrlGrp_right_knee_FK/ctrl_right_knee_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_right_thigh_FK/ctrl_right_thigh_FK/ctrlGrp_right_knee_FK/ctrl_right_knee_FK/ctrlGrp_right_ankle_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_right_thigh_FK/ctrl_right_thigh_FK/ctrlGrp_right_knee_FK/ctrl_right_knee_FK/ctrlGrp_right_ankle_FK/ctrl_right_ankle_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_left_shoulder_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_left_shoulder_FK/ctrl_left_shoulder_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_left_shoulder_FK/ctrl_left_shoulder_FK/ctrlGrp_left_elbow_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_left_shoulder_FK/ctrl_left_shoulder_FK/ctrlGrp_left_elbow_FK/ctrl_left_elbow_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_left_shoulder_FK/ctrl_left_shoulder_FK/ctrlGrp_left_elbow_FK/ctrl_left_elbow_FK/ctrlGrp_left_wrist_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_left_shoulder_FK/ctrl_left_shoulder_FK/ctrlGrp_left_elbow_FK/ctrl_left_elbow_FK/ctrlGrp_left_wrist_FK/ctrl_left_wrist_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_neck
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_neck/ctrl_neck
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_neck/ctrl_neck/ctrlGrp_head
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_neck/ctrl_neck/ctrlGrp_head/ctrl_head
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_right_shoulder_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_right_shoulder_FK/ctrl_right_shoulder_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_right_shoulder_FK/ctrl_right_shoulder_FK/ctrlGrp_right_elbow_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_right_shoulder_FK/ctrl_right_shoulder_FK/ctrlGrp_right_elbow_FK/ctrl_right_elbow_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_right_shoulder_FK/ctrl_right_shoulder_FK/ctrlGrp_right_elbow_FK/ctrl_right_elbow_FK/ctrlGrp_right_wrist_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_COG/ctrl_COG/ctrlGrp_waist/ctrl_waist/ctrlGrp_lowerChest/ctrl_lowerChest/ctrlGrp_upperChest/ctrl_upperChest/ctrlGrp_right_shoulder_FK/ctrl_right_shoulder_FK/ctrlGrp_right_elbow_FK/ctrl_right_elbow_FK/ctrlGrp_right_wrist_FK/ctrl_right_wrist_FK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_arm_IK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_arm_IK/ctrl_left_arm_IK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_ball
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_ball/ctrl_left_ball
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_hand
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_hand/ctrlGrp_left_finger
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_hand/ctrlGrp_left_finger/ctrl_left_finger
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_hand/ctrlGrp_left_thumb
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_hand/ctrlGrp_left_thumb/ctrl_left_thumb
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_leg_IK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_left_leg_IK/ctrl_left_leg_IK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_arm_IK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_arm_IK/ctrl_right_arm_IK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_ball
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_ball/ctrl_right_ball
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_hand
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_hand/ctrlGrp_right_finger
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_hand/ctrlGrp_right_finger/ctrl_right_finger
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_hand/ctrlGrp_right_thumb
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_hand/ctrlGrp_right_thumb/ctrl_right_thumb
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_leg_IK
+    m_Weight: 1
+  - m_Path: ctrls_GRP/ctrlGrp_right_leg_IK/ctrl_right_leg_IK
+    m_Weight: 1
+  - m_Path: Human_Body
+    m_Weight: 1
+  - m_Path: Human_Head
+    m_Weight: 1
+  - m_Path: Human_LeftShoe
+    m_Weight: 1
+  - m_Path: Human_RightShoe
+    m_Weight: 1
+  - m_Path: jnt_root
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_BND/jnt_left_knee_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_BND/jnt_left_knee_BND/jnt_left_ankle_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_BND/jnt_left_knee_BND/jnt_left_ankle_BND/jnt_left_ball_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_BND/jnt_left_knee_BND/jnt_left_ankle_BND/jnt_left_ball_BND/jntEnd_left_toeEnd
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_FK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_FK/jnt_left_knee_FK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_FK/jnt_left_knee_FK/jnt_left_ankle_FK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_IK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_IK/jnt_left_knee_IK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_left_thigh_IK/jnt_left_knee_IK/jnt_left_ankle_IK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_BND/jnt_right_knee_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_BND/jnt_right_knee_BND/jnt_right_ankle_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_BND/jnt_right_knee_BND/jnt_right_ankle_BND/jnt_right_ball_BND
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_BND/jnt_right_knee_BND/jnt_right_ankle_BND/jnt_right_ball_BND/jntEnd_right_toeEnd
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_FK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_FK/jnt_right_knee_FK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_FK/jnt_right_knee_FK/jnt_right_ankle_FK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_IK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_IK/jnt_right_knee_IK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_right_thigh_IK/jnt_right_knee_IK/jnt_right_ankle_IK
+    m_Weight: 0
+  - m_Path: jnt_root/jnt_waist_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_BND/jnt_left_elbow_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_BND/jnt_left_elbow_BND/jnt_left_wrist_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_BND/jnt_left_elbow_BND/jnt_left_wrist_BND/jnt_left_finger_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_BND/jnt_left_elbow_BND/jnt_left_wrist_BND/jnt_left_finger_BND/jntEnd_left_fingerTip
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_BND/jnt_left_elbow_BND/jnt_left_wrist_BND/jnt_left_thumb_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_BND/jnt_left_elbow_BND/jnt_left_wrist_BND/jnt_left_thumb_BND/jntEnd_left_thumbEnd
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_FK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_FK/jnt_left_elbow_FK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_FK/jnt_left_elbow_FK/jnt_left_wrist_FK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_IK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_IK/jnt_left_elbow_IK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_left_shoulder_IK/jnt_left_elbow_IK/jnt_left_wrist_IK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_neck_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_neck_BND/jnt_head_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_neck_BND/jnt_head_BND/jntEnd_headTop
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_BND/jnt_right_elbow_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_BND/jnt_right_elbow_BND/jnt_right_wrist_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_BND/jnt_right_elbow_BND/jnt_right_wrist_BND/jnt_right_finger_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_BND/jnt_right_elbow_BND/jnt_right_wrist_BND/jnt_right_finger_BND/jntEnd_right_fingerTip
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_BND/jnt_right_elbow_BND/jnt_right_wrist_BND/jnt_right_thumb_BND
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_BND/jnt_right_elbow_BND/jnt_right_wrist_BND/jnt_right_thumb_BND/jntEnd_right_thumbEnd
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_FK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_FK/jnt_right_elbow_FK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_FK/jnt_right_elbow_FK/jnt_right_wrist_FK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_IK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_IK/jnt_right_elbow_IK
+    m_Weight: 1
+  - m_Path: jnt_root/jnt_waist_BND/jnt_lowerChest_BND/jnt_upperChest_BND/jnt_right_shoulder_IK/jnt_right_elbow_IK/jnt_right_wrist_IK
+    m_Weight: 1

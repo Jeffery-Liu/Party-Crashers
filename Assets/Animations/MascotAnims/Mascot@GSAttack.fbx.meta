@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 8225a8835fd3890408eebfc85b3b1473
+timeCreated: 1487464048
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mascot_AttackNew_Revised_:headEndJnt
+    100004: Mascot_AttackNew_Revised_:headJnt
+    100006: Mascot_AttackNew_Revised_:joint1
+    100008: Mascot_AttackNew_Revised_:left_clavicleJnt
+    100010: Mascot_AttackNew_Revised_:left_elbowJnt
+    100012: Mascot_AttackNew_Revised_:left_finger1Jnt
+    100014: Mascot_AttackNew_Revised_:left_finger2Jnt
+    100016: Mascot_AttackNew_Revised_:left_fingerEndJnt
+    100018: Mascot_AttackNew_Revised_:left_footJnt
+    100020: Mascot_AttackNew_Revised_:left_hipJnt
+    100022: Mascot_AttackNew_Revised_:left_kneeJnt
+    100024: Mascot_AttackNew_Revised_:left_shoulderJnt
+    100026: Mascot_AttackNew_Revised_:left_thumb1Jnt
+    100028: Mascot_AttackNew_Revised_:left_thumb2Jnt
+    100030: Mascot_AttackNew_Revised_:left_thumbEndJnt
+    100032: Mascot_AttackNew_Revised_:right_clavicleJnt
+    100034: Mascot_AttackNew_Revised_:right_elbowJnt
+    100036: Mascot_AttackNew_Revised_:right_finger1Jnt
+    100038: Mascot_AttackNew_Revised_:right_finger2Jnt
+    100040: Mascot_AttackNew_Revised_:right_fingerEndJnt
+    100042: Mascot_AttackNew_Revised_:right_footJnt
+    100044: Mascot_AttackNew_Revised_:right_hipJnt
+    100046: Mascot_AttackNew_Revised_:right_kneeJnt
+    100048: Mascot_AttackNew_Revised_:right_shoulderJnt
+    100050: Mascot_AttackNew_Revised_:right_thumb1Jnt
+    100052: Mascot_AttackNew_Revised_:right_thumb2Jnt
+    100054: Mascot_AttackNew_Revised_:right_thumbEndJnt
+    100056: Mascot_AttackNew_Revised_:rootJnt
+    100058: Mascot_AttackNew_Revised_:spine1Jnt
+    100060: Mascot_AttackNew_Revised_:spine2Jnt
+    100062: Mascot_AttackNew_Revised_:spine3Jnt
+    100064: Mascot_AttackNew_Revised_:spine4Jnt
+    100066: Mascot_AttackNew_Revised_:tail1Jnt
+    100068: Mascot_AttackNew_Revised_:tail2Jnt
+    100070: Mascot_AttackNew_Revised_:tail3Jnt
+    100072: Mascot_AttackNew_Revised_:tailEndJnt
+    400000: //RootNode
+    400002: Mascot_AttackNew_Revised_:headEndJnt
+    400004: Mascot_AttackNew_Revised_:headJnt
+    400006: Mascot_AttackNew_Revised_:joint1
+    400008: Mascot_AttackNew_Revised_:left_clavicleJnt
+    400010: Mascot_AttackNew_Revised_:left_elbowJnt
+    400012: Mascot_AttackNew_Revised_:left_finger1Jnt
+    400014: Mascot_AttackNew_Revised_:left_finger2Jnt
+    400016: Mascot_AttackNew_Revised_:left_fingerEndJnt
+    400018: Mascot_AttackNew_Revised_:left_footJnt
+    400020: Mascot_AttackNew_Revised_:left_hipJnt
+    400022: Mascot_AttackNew_Revised_:left_kneeJnt
+    400024: Mascot_AttackNew_Revised_:left_shoulderJnt
+    400026: Mascot_AttackNew_Revised_:left_thumb1Jnt
+    400028: Mascot_AttackNew_Revised_:left_thumb2Jnt
+    400030: Mascot_AttackNew_Revised_:left_thumbEndJnt
+    400032: Mascot_AttackNew_Revised_:right_clavicleJnt
+    400034: Mascot_AttackNew_Revised_:right_elbowJnt
+    400036: Mascot_AttackNew_Revised_:right_finger1Jnt
+    400038: Mascot_AttackNew_Revised_:right_finger2Jnt
+    400040: Mascot_AttackNew_Revised_:right_fingerEndJnt
+    400042: Mascot_AttackNew_Revised_:right_footJnt
+    400044: Mascot_AttackNew_Revised_:right_hipJnt
+    400046: Mascot_AttackNew_Revised_:right_kneeJnt
+    400048: Mascot_AttackNew_Revised_:right_shoulderJnt
+    400050: Mascot_AttackNew_Revised_:right_thumb1Jnt
+    400052: Mascot_AttackNew_Revised_:right_thumb2Jnt
+    400054: Mascot_AttackNew_Revised_:right_thumbEndJnt
+    400056: Mascot_AttackNew_Revised_:rootJnt
+    400058: Mascot_AttackNew_Revised_:spine1Jnt
+    400060: Mascot_AttackNew_Revised_:spine2Jnt
+    400062: Mascot_AttackNew_Revised_:spine3Jnt
+    400064: Mascot_AttackNew_Revised_:spine4Jnt
+    400066: Mascot_AttackNew_Revised_:tail1Jnt
+    400068: Mascot_AttackNew_Revised_:tail2Jnt
+    400070: Mascot_AttackNew_Revised_:tail3Jnt
+    400072: Mascot_AttackNew_Revised_:tailEndJnt
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

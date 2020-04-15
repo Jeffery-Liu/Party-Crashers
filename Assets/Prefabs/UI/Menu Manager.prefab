@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &102104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 487510}
+  - 114: {fileID: 11446408}
+  - 114: {fileID: 11437588}
+  m_Layer: 0
+  m_Name: Menu Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &487510
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 102104}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11437588
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 102104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef45edc2d0d2ed2468d37026f747d615, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firstPlayer: 0
+  secondPlayer: 0
+  thirdPlayer: 0
+  fourthPlayer: 0
+  P1:
+    characters:
+    - {fileID: 21300000, guid: 26d6f6e1202f0464082399d6580f1ecf, type: 3}
+    - {fileID: 21300000, guid: 5920aef269b7fee438e3a38ae29fef83, type: 3}
+    - {fileID: 21300000, guid: e41069a6e3e440543a208d1a22ba3b8c, type: 3}
+    - {fileID: 21300000, guid: f74701c972e64f946a4603dbcfb59cb7, type: 3}
+    characterSelectIcon: {fileID: 0}
+    index: 0
+    cooldownCounter: 0
+  P2:
+    characters:
+    - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 21300000, guid: 5920aef269b7fee438e3a38ae29fef83, type: 3}
+    - {fileID: 21300000, guid: e41069a6e3e440543a208d1a22ba3b8c, type: 3}
+    - {fileID: 21300000, guid: f74701c972e64f946a4603dbcfb59cb7, type: 3}
+    - {fileID: 21300000, guid: 26d6f6e1202f0464082399d6580f1ecf, type: 3}
+    characterSelectIcon: {fileID: 0}
+    index: 0
+    cooldownCounter: 0
+  P3:
+    characters:
+    - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 21300000, guid: 5920aef269b7fee438e3a38ae29fef83, type: 3}
+    - {fileID: 21300000, guid: e41069a6e3e440543a208d1a22ba3b8c, type: 3}
+    - {fileID: 21300000, guid: f74701c972e64f946a4603dbcfb59cb7, type: 3}
+    - {fileID: 21300000, guid: 26d6f6e1202f0464082399d6580f1ecf, type: 3}
+    characterSelectIcon: {fileID: 0}
+    index: 0
+    cooldownCounter: 0
+  P4:
+    characters:
+    - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 21300000, guid: 5920aef269b7fee438e3a38ae29fef83, type: 3}
+    - {fileID: 21300000, guid: e41069a6e3e440543a208d1a22ba3b8c, type: 3}
+    - {fileID: 21300000, guid: f74701c972e64f946a4603dbcfb59cb7, type: 3}
+    - {fileID: 21300000, guid: 26d6f6e1202f0464082399d6580f1ecf, type: 3}
+    characterSelectIcon: {fileID: 0}
+    index: 0
+    cooldownCounter: 0
+  P1Join: 0
+  P2Join: 0
+  P3Join: 0
+  P4Join: 0
+  KeyboardJoin: 0
+  canLockIn_P1: 0
+  canLockIn_P2: 0
+  canLockIn_P3: 0
+  canLockIn_P4: 0
+  canLockIn_Keyboard: 0
+  P1Locked: 0
+  P2Locked: 0
+  P3Locked: 0
+  P4Locked: 0
+  canBack: 0
+  playersLockedIn: 0
+  canStartGame: 0
+  readyText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  lockInText: {fileID: 0}
+  lockInTextOutline: {fileID: 0}
+  playerOneJoined: 0
+  playerTwoJoined: 0
+  playerThreeJoined: 0
+  playerFourJoined: 0
+  tempPlayerNumbersText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  tempPlayerNumbersTextOutline:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &11446408
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 102104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ffd6603dd35bd47a37c3be9c00ea79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canvases:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  firstSelectedButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  allButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  waitedForADelay: 0
+  splashActive: 0
+  mainMenuActive: 0
+  playActive: 0
+  settingsActive: 0
+  creditsActive: 0
+  exitPromptActive: 0
+  exitActive: 0
+  canBack: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 102104}
+  m_IsPrefabParent: 1
