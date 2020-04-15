@@ -38,30 +38,30 @@ Project Version: 5.6.3
 ### What I created: 
 #### Under Scripts folder:
 - AI:
-    ChaserEnemyAi
-    EnemyAI
-    EnemyDamage
-    EnemyHealth
-    HeavyEnemy
-    MeleeEnemyAttack
-    ShooterEnemy
-    SimpleShooter
-    SpawnEnemy
+    ChaserEnemyAi.
+    EnemyAI.
+    EnemyDamage.
+    EnemyHealth.
+    HeavyEnemy.
+    MeleeEnemyAttack.
+    ShooterEnemy.
+    SimpleShooter.
+    SpawnEnemy.
 - Minigame:
-    Everything under "BreakToTheBeat"
-    Everything under "DanceFloor"
-    Created and edited scripts under "BallroomBlitz" with other programmers
+    Everything under "BreakToTheBeat".
+    Everything under "DanceFloor".
+    Created and edited scripts under "BallroomBlitz" with other programmers.
 - Player:
-    FriendlyKnockback
-    GoombaJump
+    FriendlyKnockback.
+    GoombaJump.
     Edited "PlayerController" with other programmers.
     
 - Weapon:
-    StateEffect
+    StateEffect.
     
     
     
-    Note: not all the scripts were used in the prototype.
+- Note: not all the scripts were used in the prototype.
     
 
 ## Contributors:
